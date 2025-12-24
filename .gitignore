@@ -1,0 +1,12 @@
+# Build do .NET
+bin/
+obj/
+
+# VS Code / Visual Studio
+.vscode/
+*.user
+*.suo
+
+# Sistema
+.DS_Store
+Thumbs.db
